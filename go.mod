@@ -1,10 +1,10 @@
 module goauthentik.io
 
-go 1.20
+go 1.23
 
 require (
 	beryju.io/ldap v0.1.0
-	github.com/Netflix/go-env v0.0.0-20210215222557-e437a7e7f9fb
+	github.com/Netflix/go-env v0.1.2
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/garyburd/redigo v1.6.4
 	github.com/getsentry/sentry-go v0.23.0
