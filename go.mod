@@ -5,7 +5,7 @@ go 1.20
 require (
 	beryju.io/ldap v0.1.0
 	github.com/Netflix/go-env v0.0.0-20210215222557-e437a7e7f9fb
-	github.com/coreos/go-oidc v2.2.1+incompatible
+	github.com/coreos/go-oidc v2.5.0+incompatible
 	github.com/garyburd/redigo v1.6.4
 	github.com/getsentry/sentry-go v0.23.0
 	github.com/go-http-utils/etag v0.0.0-20161124023236-513ea8f21eb1
@@ -79,6 +79,6 @@ require (
 	golang.org/x/text v0.12.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
-	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
+	gopkg.in/go-jose/go-jose.v2 v2.6.3 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
