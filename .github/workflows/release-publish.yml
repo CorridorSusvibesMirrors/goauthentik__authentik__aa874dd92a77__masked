@@ -167,7 +167,7 @@ jobs:
           container=$(docker container create ghcr.io/goauthentik/server:latest)
           docker cp ${container}:web/ .
       - name: Create a Sentry.io release
-        uses: getsentry/action-release@v1
+        uses: getsentry/action-release@v3
         continue-on-error: true
         if: ${{ github.event_name == 'release' }}
         env:
