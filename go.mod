@@ -1,6 +1,6 @@
 module goauthentik.io
 
-go 1.20
+go 1.23
 
 require (
 	beryju.io/ldap v0.1.0
@@ -16,8 +16,8 @@ require (
 	github.com/google/uuid v1.3.1
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
-	github.com/gorilla/securecookie v1.1.1
-	github.com/gorilla/sessions v1.2.1
+	github.com/gorilla/securecookie v1.1.2
+	github.com/gorilla/sessions v1.4.0
 	github.com/gorilla/websocket v1.5.0
 	github.com/jellydator/ttlcache/v3 v3.1.0
 	github.com/nmcclain/asn1-ber v0.0.0-20170104154839-2661553a0484
