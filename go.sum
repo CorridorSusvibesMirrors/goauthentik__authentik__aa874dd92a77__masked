@@ -1,5 +1,5 @@
-beryju.io/ldap v0.1.0 h1:rPjGE3qR1Klbvn9N+iECWdzt/tK87XHgz8W5wZJg9B8=
-beryju.io/ldap v0.1.0/go.mod h1:sOrYV+ZlDTDu/IvIiEiuAaXzjcpMBE+XXr4V+NJ0pWI=
+beryju.io/ldap v0.2.2 h1:wF3EVja90O/3zYTebwIq/OUhuPKgGew1A0tVoioVN/E=
+beryju.io/ldap v0.2.2/go.mod h1:GJSw3pVOON/3+L5att3Eysmj7j0GmjLvA6/WNmPajD4=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.38.0/go.mod h1:990N+gfupTy94rShfmMCWGDn0LpTmnzTp2qbd1dvSRU=
